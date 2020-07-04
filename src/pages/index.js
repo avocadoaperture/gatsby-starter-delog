@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
+import Logo from “src/images/avocado aperture logo.png”;
 
 const IndexPage = ({
   data: {
@@ -20,7 +21,7 @@ const IndexPage = ({
     <Layout>
       <Helmet>
         <title>{site.siteMetadata.title}</title> 
-         <h1>123</h1>
+     <img src={Logo}>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>

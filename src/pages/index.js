@@ -19,7 +19,7 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>{site.siteMetadata.title}</title>
+        <title>{site.siteMetadata.title}</title> <img src="src/images/avocado aperture logo.png">
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>

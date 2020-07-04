@@ -20,10 +20,11 @@ const IndexPage = ({
     <Layout>
       <Helmet>
         <title>{site.siteMetadata.title}</title> 
-         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
+               <h1>Blog Postsss &darr;</h1>
+
       <h2>Blog Posts &darr;</h2>
       <div className="grids">
         {Posts}

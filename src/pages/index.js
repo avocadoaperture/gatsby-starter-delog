@@ -17,8 +17,9 @@ const IndexPage = ({
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
+               <img src="/assets/avocadoapertureicon.png" width={500} height={300} mode='fit />
+
     <Layout>
-      <img src="/assets/avocadoapertureicon.png" width={500} height={300} mode='fit />
       <Helmet>
         <title>{site.siteMetadata.title}</title> 
         <meta name="description" content={site.siteMetadata.description} />

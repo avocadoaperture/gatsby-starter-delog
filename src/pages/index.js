@@ -11,14 +11,13 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
+      <img src="/assets/avocadoapertureicon.png" width={500} height={300} mode='fit />
 
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
-               <img src="/assets/avocadoapertureicon.png" />
-
     <Layout>
       <Helmet>
         <title>{site.siteMetadata.title}</title> 

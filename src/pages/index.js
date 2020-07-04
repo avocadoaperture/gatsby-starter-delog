@@ -19,11 +19,11 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
+         <img src="/assets/avocadoapertureicon.png" />
         <title>{site.siteMetadata.title}</title> 
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-         <img src="/assets/image-6.jpg" />
       <h2>Blog Posts &darr;</h2>
       <div className="grids">
         {Posts}

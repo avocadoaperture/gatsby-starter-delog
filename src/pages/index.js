@@ -23,7 +23,7 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-                  <img src="/assets/avocadoapertureicon.png" />
+      <img src="/assets/avocadoapertureicon.png" width={500} height={300} mode='fit />
       <h2>Blog Posts &darr;</h2>
       <div className="grids">
         {Posts}

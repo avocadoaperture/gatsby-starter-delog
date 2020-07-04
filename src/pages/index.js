@@ -18,6 +18,7 @@ const IndexPage = ({
 
   return (
     <Layout>
+      <img src="/assets/avocadoapertureicon.png" width={500} height={300} mode='fit />
       <Helmet>
         <title>{site.siteMetadata.title}</title> 
         <meta name="description" content={site.siteMetadata.description} />

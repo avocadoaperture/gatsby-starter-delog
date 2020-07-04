@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
-import Logo from “src/images/avocado aperture logo.png”;
+import Logo from “./src/images/avocado aperture logo.png”;
 
 const IndexPage = ({
   data: {

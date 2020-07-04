@@ -18,6 +18,8 @@ const IndexPage = ({
 
   return (
     <Layout>
+                  <img src="/assets/avocadoapertureicon.png" />
+
       <Helmet>
         <title>{site.siteMetadata.title}</title> 
         <meta name="description" content={site.siteMetadata.description} />
@@ -25,7 +27,6 @@ const IndexPage = ({
       <HeroHeader/>
       
       <h2>Blog Posts &darr;</h2>
-         <img src="/assets/avocadoapertureicon.png" />
       <div className="grids">
         {Posts}
       </div>

@@ -9,7 +9,7 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #419616;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
@@ -101,7 +101,7 @@ a {
   align-items: center;
 }
 .site-title a {
-  color: #419616(--primary-color);
+  color: var(--primary-color);
   text-decoration: none;
   font-weight: 900;
   text-transform: uppercase;

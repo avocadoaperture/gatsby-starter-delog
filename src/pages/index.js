@@ -25,7 +25,7 @@ const IndexPage = ({
       </Helmet>
       <HeroHeader/>
       
-      <h2>Blog Posts &darr;</h2>
+      <h2>Items &darr;</h2>
       <div className="grids">
         {Posts}
       </div>

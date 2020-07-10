@@ -4,7 +4,6 @@
   "description": "A portfolio website by Jason W",
   "home": {
     "title": "Hola",
-    "description": "My name is Jason and you are browsing my creative portfolio. 
-    '<a href=\"https://www.google.com\">Visit Google<\/a>'"
+    "description": "My name is Jason and you are browsing my creative portfolio. \n'<a href=\"https://www.google.com\">Visit Google<\/a>'"
   }
 }

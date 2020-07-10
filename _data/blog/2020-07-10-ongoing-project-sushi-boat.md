@@ -3,7 +3,7 @@ template: BlogPost
 path: /SushiBoat
 date: 2020-07-10T06:40:22.705Z
 title: (Ongoing Project) Sushi Boat
-thumbnail: /assets/Page 5 Gunkan-min.jpg
+thumbnail: /assets/DSC_0691.JPG
 ---
 About the project: Create marketing materials, menus and manage social media accounts.
 

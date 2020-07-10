@@ -3,5 +3,14 @@ template: BlogPost
 path: /OrderPlease
 date: 2020-07-10T06:50:08.857Z
 title: (Ongoing Project) Order Please - Calgary Food Deals
+thumbnail: /assets/orderplease2.jpg
 ---
-Deal website
+About the project: I created this website for local restaurants to use it as a platform to promote food and service.
+
+[www.orderplease.ca](www.orderplease.ca)
+
+![](/assets/orderplease2.jpg)
+
+![](/assets/orderplease.jpg)
+
+![](/assets/107857322_2787235791497796_7629282807789065054_n.png)

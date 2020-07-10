@@ -15,6 +15,8 @@ Art Sale Location That Displays All The Submissions
 
 ![](/assets/IMG_5864.JPG "Art Sale Location")
 
+![](/assets/IMG_5953.JPG "Art Sale Location 2")
+
 Collecting and Pricing Submissions
 
 ![](/assets/IMG_20161125_133232.jpg "Collecting and Pricing Submissions")

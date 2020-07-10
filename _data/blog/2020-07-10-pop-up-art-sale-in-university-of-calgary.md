@@ -3,10 +3,10 @@ template: BlogPost
 path: /PopUp
 date: 2017-12-09T06:04:35.605Z
 title: Pop Up Art Sale in University of Calgary
-metaDescription: project about
+metaDescription: ''
 thumbnail: /assets/IMG_5864.JPG
 ---
-Pop Up Art Sale I organized for Art Students at University of Calgary
+About the project: I organized and promoted two consignment art sales for art students at University of Calgary.
 
 Promotional Poster Used on Campus and Facebook Ads
 

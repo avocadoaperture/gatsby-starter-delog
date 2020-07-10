@@ -5,13 +5,13 @@ date: 2017-12-09T06:04:35.605Z
 title: Pop Up Art Sale in University of Calgary
 thumbnail: /assets/IMG_5864.JPG
 ---
-Pop Up Art Sale I organized for Art Student at University of Calgary
+Pop Up Art Sale I organized for Art Students at University of Calgary
 
 Promotional Poster Used on Campus and Facebook Ads
 
 ![](/assets/POP UP SALE POSTER.jpg "Promotional Poster Used on Campus and Facebook Ads")
 
-Art Sale Location
+Art Sale Location That Displays All The Submissions
 
 ![](/assets/IMG_5864.JPG "Art Sale Location")
 

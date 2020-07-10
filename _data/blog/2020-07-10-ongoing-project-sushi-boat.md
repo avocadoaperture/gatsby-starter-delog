@@ -3,29 +3,29 @@ template: BlogPost
 path: /SushiBoat
 date: 2020-07-10T06:40:22.705Z
 title: (Ongoing Project) Sushi Boat
-thumbnail: /assets/Page 6 Nigiri P1-min.png
+thumbnail: /assets/Page 5 Gunkan-min.jpg
 ---
 About the project: Create marketing materials, menus and manage social media accounts.
 
 \*The images have been compressed to reduce the loading time. Please contact me for full size images.
 
-![](/assets/Front cover page-min.png)
+![](/assets/Front cover page-min.jpg)
 
-![](/assets/Page 5 Gunkan-min.png)
+![](/assets/Page 5 Gunkan-min.jpg)
 
-![](/assets/Page 6 Nigiri P1-min.png)
+![](/assets/Page 6 Nigiri P1-min.jpg)
 
-![](/assets/Page 7 Nigiri P2-min.png)
+![](/assets/Page 7 Nigiri P2-min.jpg)
 
-![](/assets/Page 9 Rolls P2-min.png)
+![](/assets/Page 9 Rolls P2-min.jpg)
 
-![](/assets/Page 10 Special Rolls-min.png)
+![](/assets/Page 10 Special Rolls-min.jpg)
 
-![](/assets/Page 14 Tempura-min.png)
+![](/assets/Page 14 Tempura-min.jpg)
 
-![](/assets/Page 15 Udon and Soup-min.png)
+![](/assets/Page 15 Udon and Soup-min.jpg)
 
-![](/assets/Page 18 Beer and Sake-min.png)
+![](/assets/Page 18 Beer and Sake-min.jpg)
 
 ![](/assets/NEW ITEM-min.jpg)
 
@@ -37,7 +37,7 @@ About the project: Create marketing materials, menus and manage social media acc
 
 ![](/assets/UDON WANTED.-min.png)
 
-![](/assets/sushi boat TO Front 630-min.png)
+![](/assets/sushi boat TO Front 630-min.jpg)
 
 ![](/assets/107510493_276370363704255_1120172099109614407_n.png)
 

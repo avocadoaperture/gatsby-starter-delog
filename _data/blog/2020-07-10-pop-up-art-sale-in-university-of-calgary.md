@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /PopUp
-date: 2020-07-10T05:04:35.605Z
+date: 2017-12-09T06:04:35.605Z
 title: Pop Up Art Sale in University of Calgary
 thumbnail: /assets/IMG_5864.JPG
 ---

@@ -7,7 +7,7 @@ thumbnail: /assets/orderplease2.jpg
 ---
 About the project: I created this website for local restaurants to use it as a platform to promote food and service.
 
-[www.orderplease.ca](www.orderplease.ca)
+<a href="https://www.orderplease.ca\">www.orderplease.ca</a>
 
 ![](/assets/orderplease2.jpg)
 

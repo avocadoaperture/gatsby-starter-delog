@@ -5,7 +5,9 @@ date: 2020-07-10T06:40:22.705Z
 title: (Ongoing Project) Sushi Boat
 thumbnail: /assets/DSC_0691.JPG
 ---
-About the project: Create marketing materials, menus and manage social media accounts.
+
+
+About the project: Create marketing materials, menus, emailing marketing and manage social media accounts.
 
 \*The images have been compressed to reduce the loading time. Please contact me for full size images.
 
@@ -35,12 +37,16 @@ About the project: Create marketing materials, menus and manage social media acc
 
 ![](/assets/SUSHI BOAT SPECIAL ROLL-min.png)
 
-![](/assets/UDON WANTED.-min.png)
+![](/assets/UDON WANTED..png)
 
 ![](/assets/sushi boat TO Front 630-min.jpg)
 
 ![](/assets/107510493_276370363704255_1120172099109614407_n.png)
 
+Emailing list campaign
+
 ![](/assets/107641647_687365931817697_3039658390318914915_n.png)
 
-![](/assets/SushiBoat Special Menu Version 3-min.png)
+![](/assets/email marketing.jpg)
+
+![](/assets/campiagn performance.jpg)

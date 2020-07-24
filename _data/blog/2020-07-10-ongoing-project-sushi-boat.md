@@ -3,7 +3,7 @@ template: BlogPost
 path: /SushiBoat
 date: 2020-07-24T06:40:22.705Z
 title: (Ongoing Project) Sushi Boat
-thumbnail: /assets/DSC_0691.JPG
+thumbnail: /assets/sushi boat.jpg
 ---
 
 

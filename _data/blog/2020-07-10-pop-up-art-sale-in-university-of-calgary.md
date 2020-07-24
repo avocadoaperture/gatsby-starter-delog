@@ -4,7 +4,7 @@ path: /PopUp
 date: 2017-12-09T06:04:35.605Z
 title: Pop Up Art Sale in University of Calgary
 metaDescription: ''
-thumbnail: /assets/IMG_5864.JPG
+thumbnail: /assets/popup art sale.jpg
 ---
 About the project: I organized and promoted a consignment art sale for art students at University of Calgary.
 

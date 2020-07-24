@@ -6,7 +6,9 @@ title: Pop Up Art Sale in University of Calgary
 metaDescription: ''
 thumbnail: /assets/popup art sale.jpg
 ---
-About the project: I organized and promoted a consignment art sale for art students at University of Calgary.
+About the project: I organized and promoted two consignment art sales for art students at University of Calgary.
+
+One in December 2017 and one in April 2018.
 
 Promotional Poster Used on Campus and Facebook Ads
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /CaseMogulShopify
 date: 2019-10-02T04:04:11.770Z
 title: Case Mogul Shopify Website
-thumbnail: /assets/DSC_0092.JPG
+thumbnail: /assets/case mogul.jpg
 ---
 About the project: I setup and designed an eCommerce website using Shopify for Case Mogul. I've also helped with Facebook and Instagram advertising campaigns.
 

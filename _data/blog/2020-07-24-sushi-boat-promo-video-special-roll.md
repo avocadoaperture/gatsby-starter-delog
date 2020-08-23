@@ -2,7 +2,8 @@
 template: BlogPost
 path: /SushiBoat_Video_1
 date: 2020-07-24T21:45:20.634Z
-title: Sushi Boat Promo Video (Special Roll)
+title: Sushi Boat Promo Video
+metaDescription: For the new menu item Sushi Boat Special Roll
 thumbnail: /assets/sushi boat video cover.jpg
 ---
 <div class="iframe-container">
